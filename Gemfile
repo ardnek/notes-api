@@ -15,6 +15,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer',  platforms: :ruby
 
 gem 'rack-cors', :require => 'rack/cors'
+gem 'active_model_serializers', '~> 0.9.1'
 
 # Use jquery as the JavaScript library
 # gem 'jquery-rails'
