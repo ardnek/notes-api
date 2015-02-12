@@ -24,7 +24,7 @@ body: "Find planets in outer sphere of space"
 
 Note.create!(
 title: "Dinner",
-body: "Pakwan in the Mission with friends"
+body: "Pakwan in the Mission"
 )
 
 Note.create!(
