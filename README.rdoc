@@ -1,3 +1,13 @@
+# notes API for app: & OTHER[NOTES]
+
+Production URL: https://white-blood-cells.herokuapp.com/
+
+& Other[Notes] is a private, local note taking app-- data persistence-- with Ember Data & Local Storage.
+
+Interesting tech from this project include: Built a notes API for & Other[Notes] so that data can be shared by many users.
+
+Note: I took the project a step further by creating a custom design and hand-coding CSS.
+
 == README
 
 This README would normally document whatever steps are necessary to get the
