@@ -1,4 +1,4 @@
-LOCAL [NOTES] API for app: LOCAL [NOTES]
+== LOCAL [NOTES] API for app: LOCAL [NOTES]
 
 Production URL: https://white-blood-cells.herokuapp.com/
 
